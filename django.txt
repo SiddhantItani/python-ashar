@@ -1,0 +1,16 @@
+first install environment
+pip install virtualenv
+create virtual environment
+python -m venv (env name)
+activate vitual env
+./(env_name)/Scripts/activate
+install django
+pip install django
+for requiremrnt
+pip freeze > requirements.txt
+start a project
+django-admin startproject (project name)
+
+
+
+
